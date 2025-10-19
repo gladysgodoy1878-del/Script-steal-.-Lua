@@ -1,0 +1,7 @@
+echo "# Script-steal-a-Brainrot.-Lua" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/gladysgodoy1878-del/Script-steal-a-Brainrot.-Lua.git
+git push -u origin main
